@@ -11,6 +11,7 @@
 6) After a few seconds flash should be successful and the SPS30 sensor fan should be audible. Flick side switch on PCB back into run mode (R).
 
 Flashing/Hex Files (Click link -> CTRL+S -> Save as Firmware.hex without ".txt"):
+- **[Latest](https://raw.githubusercontent.com/open-seneca/integrated-aq-sensor/main/Firmware/STM32F405RGT6_SEN5x/Debug/Firmware_latest.hex) STM32F405 - Recommended**
 - [v0 March 2021](https://raw.githubusercontent.com/open-seneca/integrated-aq-sensor/main/Firmware/STM32F405RGT6/Debug/03-2021%20Hex%20(C40)/Firmware.hex) STM32F405
 - [v1 May 2021](https://github.com/open-seneca/integrated-aq-sensor/tree/main/Firmware/STM32L071RBT6) STM32L07 (needs to be flashed via SWD)
 - [v2 July 2021](https://raw.githubusercontent.com/open-seneca/integrated-aq-sensor/main/Firmware/STM32F405RGT6/Debug/Firmware.hex)  STM32F405
